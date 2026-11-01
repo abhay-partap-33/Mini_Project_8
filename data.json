@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "item_type": "Book",
+            "item_id": "108",
+            "title": "kasap",
+            "available": true
+        }
+    ],
+    "members": [
+        {
+            "member_type": "StudentMember",
+            "member_id": "M101",
+            "name": "Divya Praksh Dubey",
+            "borrowing_limit": 3
+        }
+    ],
+    "loans": []
+}
